@@ -1,10 +1,10 @@
 # rest-api-with-postman
-REST API built using Express and accessed with Postman
+REST API built using Express and tested with Postman
 
 ## Run npm i
 - Install dependencies
 
 ## Install Postman to test GET, POST, PUT and DELETE Routes
--https://www.postman.com/downloads/
+- https://www.postman.com/downloads/
 
 
